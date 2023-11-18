@@ -1,0 +1,13 @@
+[
+	{
+		"_id": 123,
+		"name": "Taj Mahal",
+		"city": "Uttar Pradesh",
+		"country": "India",
+		"website": "tajmahal.gov.in",
+		"image": "Taj_Mahal.jpeg",
+		"liked": true,
+		"comments": 4.2,
+        "likes": 1000
+	}
+]
